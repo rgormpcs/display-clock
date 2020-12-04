@@ -1,5 +1,5 @@
 
-# Clock on Java Script an CSS
+# Clock on JavaScript an CSS
 
 This is a clock, build in HTML JavaScript and CSS, it's a clock could help you to focus on your tasks 
 
