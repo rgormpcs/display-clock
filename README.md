@@ -6,5 +6,7 @@ This is a clock, build in HTML JavaScript and CSS, it's a clock could help you t
 ![image](images/app.PNG)
 
 # Instructions 
+Open URL
+https://rgormpcs.github.io/display-clock/clock.html
 
-Only open clock.html
+in local host download proyect and opern clock.html
