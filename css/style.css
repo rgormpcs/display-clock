@@ -31,3 +31,9 @@ body {
     color: azure;
     margin: 0;
   }
+
+  #footer{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11px;
+    color: azure;
+  }
